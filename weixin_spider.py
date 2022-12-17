@@ -95,5 +95,6 @@ if __name__=='__main__':
     biz_list=['MzIxNDEzNzI4Mg==','MzA5OTA0NDIyMQ==','MTgwNTE3Mjg2MA==','MzA3MDM5ODY4Ng==','MjM5MDMyMzg2MA==','MzA4MjQxNjQzMA==','MzU2MzA2ODk3Nw==','MTI0MDU3NDYwMQ=='] #局座召忠、占豪、冷兔、美闻参阅、十点读书、新华网、新京报、央视新闻
     for biz in biz_list:
         crow(biz)
+    print('This is new!')
 
 
